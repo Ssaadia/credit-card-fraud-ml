@@ -51,3 +51,18 @@ credit-card-fraud-ml/
 │ 
 ├── README.md
 └── requirements.txt
+
+
+
+## How to Run
+### Option A: Kaggle (recommended)
+Open the notebook on Kaggle and run all cells.
+
+### Option B: Local (Jupyter)
+1. Clone the repo
+2. Install dependencies
+3. Run notebook
+
+```bash
+pip install -r requirements.txt
+jupyter notebook
