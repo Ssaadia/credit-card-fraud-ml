@@ -1,3 +1,9 @@
+# notebooks
+https://github.com/Ssaadia/credit-card-fraud-ml/blob/main/notebooks/01-fraud-data-cleaning-and-validation.ipynb
+
+
+
+
 # credit-card-fraud-ml
 # Credit Card Fraud Detection (Imbalanced Classification + Threshold Tuning)
 
