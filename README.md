@@ -1,6 +1,9 @@
 # notebooks
 https://github.com/Ssaadia/credit-card-fraud-ml/blob/main/notebooks/01-fraud-data-cleaning-and-validation.ipynb
 
+https://github.com/Ssaadia/credit-card-fraud-ml/blob/main/notebooks/02-credit-card-fraud-ml-pipeline.ipynb
+
+# dataset
 
 
 
