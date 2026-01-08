@@ -5,7 +5,7 @@ https://github.com/Ssaadia/credit-card-fraud-ml/blob/main/notebooks/02-credit-ca
 
 # dataset
 
-
+https://www.kaggle.com/datasets/asqsaadia/cleaned-credit-card-fraud-dataset-for-ml
 
 # credit-card-fraud-ml
 # Credit Card Fraud Detection (Imbalanced Classification + Threshold Tuning)
